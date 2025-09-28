@@ -1,0 +1,3 @@
+RussianLCD    KEYWORD1
+printRussian    KEYWORD2
+begin    KEYWORD2
